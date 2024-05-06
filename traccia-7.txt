@@ -6,10 +6,14 @@ L'utente inserisce il numero C
 
 il codice verifica se A e minore di B
 
- - se A è minore uguale di uguale B
-    - Se A è minore uguale di C, allora stampa A
-        - Se C è minore di A , allora stampa C
+se A è minore uguale di uguale B
+    Se A è minore uguale di C
+        stampa A
+    Se C è minore di A
+        stampa C
 
- - se B è minore di A 
-    - Se B è minore uguale di C, allora stampa B
-        - Se C è minore di B , allora stampa C
+se B è minore di A 
+   Se B è minore uguale di C
+        stampa B
+    Se C è minore di B 
+        stampa C
